@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T10:47:22.695Z" agent="Mozilla/5.0 (Linux; Android 12; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" etag="z5jU1Y9Rwsk736ylbNA8" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T10:50:00.782Z" agent="Mozilla/5.0 (Linux; Android 12; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36" etag="FaKuD6qT-JnB0OiSza9p" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="422" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="449" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -55,6 +55,19 @@
             <mxPoint x="413" y="500" as="sourcePoint" />
             <mxPoint x="413" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_DnQs_Z1P2Ir-Lfi21zD-12" value="Tebakan terlalu tinggi&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="347" y="500" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_DnQs_Z1P2Ir-Lfi21zD-13" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_DnQs_Z1P2Ir-Lfi21zD-12" target="_DnQs_Z1P2Ir-Lfi21zD-14">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="260" y="520" as="sourcePoint" />
+            <mxPoint x="410" y="690" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_DnQs_Z1P2Ir-Lfi21zD-14" value="Tebakan benar&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="342" y="660" width="142" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
